@@ -1,2 +1,2 @@
-# tracey
+# Tracey
 Simple software trace tool
